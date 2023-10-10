@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.blog-container {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+  padding: 15px;
+}
+.blog-info {
+  width: 100%;
+}
+.title-text {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
